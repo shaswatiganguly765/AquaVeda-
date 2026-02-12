@@ -1,0 +1,1 @@
+// Copy from previous response, with roles: citizen, admin, manager

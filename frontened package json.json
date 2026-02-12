@@ -1,0 +1,23 @@
+{
+  "name": "aquaveda-frontend",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "@mui/material": "^5.11.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "leaflet": "^1.9.0",
+    "react-leaflet": "^4.2.0",
+    "chart.js": "^4.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "socket.io-client": "^4.7.0",
+    "axios": "^1.3.0",
+    "jspdf": "^2.5.1",
+    "react-hook-form": "^7.43.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
