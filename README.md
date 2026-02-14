@@ -61,12 +61,6 @@ It leverages **AI-driven analytics, IoT sensors, and cloud dashboards** to provi
 
 ---
 
-## 📸 Screenshots
-
-_
-
----
-
 ## 🔮 Future Enhancements
 - 🌐 Multilingual support for global deployment  
 - 📱 Mobile app integration  
